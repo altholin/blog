@@ -11,6 +11,6 @@ blog项目只是备份hexo设置以及生成静态文件的地方，该项目叫
 
 ## 关于
 本博客只保留了最核心的目录页和文章页，
-同时采用了极简主题polk，感谢主题开发者@chunqiuyiyu 
+同时采用了极简主题polk，感谢主题开发者[@chunqiuyiyu](https://github.com/chunqiuyiyu)
 
 
